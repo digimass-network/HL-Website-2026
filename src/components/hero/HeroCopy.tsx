@@ -7,13 +7,11 @@ export function HeroCopy() {
         <p className="text-sm font-medium uppercase tracking-[0.2em] text-cyan-400/90">
           Data systems & construction
         </p>
-        <h1 className="text-balance text-4xl font-bold tracking-tight text-zinc-50 sm:text-5xl lg:text-6xl">
-          H&amp;L Data Systems &amp; Construction
+        <h1 className="text-balance text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">
+          Engineering the Future of Construction &amp; Data Systems
         </h1>
         <p className="mx-auto max-w-xl text-pretty text-lg leading-relaxed text-zinc-400 lg:mx-0">
-          Modernize how your teams plan, build, and operate—unifying field data,
-          back-office systems, and stakeholder visibility in one connected
-          workflow.
+          Precision infrastructure meets modern connectivity.
         </p>
       </div>
       <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center lg:justify-start">
