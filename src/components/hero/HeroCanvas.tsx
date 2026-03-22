@@ -7,10 +7,11 @@ import { DataConnectivityScene } from "./DataConnectivityScene";
 function CanvasFallback() {
   return (
     <div
-      className="flex h-full min-h-[280px] w-full items-center justify-center rounded-2xl border border-cyan-500/20 bg-zinc-900/40 lg:min-h-[380px]"
+      className="flex h-full min-h-[280px] w-full flex-col items-center justify-center gap-3 rounded-2xl border border-cyan-500/20 bg-zinc-900/40 lg:min-h-[380px]"
       aria-hidden
     >
       <div className="h-10 w-10 animate-pulse rounded-full bg-cyan-500/30" />
+      <span className="text-xs text-zinc-500">Rendering Chimney Model...</span>
     </div>
   );
 }

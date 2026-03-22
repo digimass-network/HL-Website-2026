@@ -5,13 +5,15 @@ export function HeroCopy() {
     <div className="flex flex-col justify-center gap-8 text-center lg:text-left">
       <div className="space-y-4">
         <p className="text-sm font-medium uppercase tracking-[0.2em] text-cyan-400/90">
-          Data systems & construction
+          Chimney service &amp; installation
         </p>
         <h1 className="text-balance text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">
-          Engineering the Future of Construction &amp; Data Systems
+          Precision Chimney Engineering &amp; Installation
         </h1>
         <p className="mx-auto max-w-xl text-pretty text-lg leading-relaxed text-zinc-400 lg:mx-0">
-          Precision infrastructure meets modern connectivity.
+          The region&apos;s most advanced chimney service. Professional masonry,
+          liner installations, and structural repairs—backed by real-time data
+          transparency.
         </p>
       </div>
       <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center lg:justify-start">

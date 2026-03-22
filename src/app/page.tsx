@@ -3,19 +3,19 @@ import { HeroSection } from "@/components/hero";
 
 const pillars = [
   {
-    title: "Chimney Engineering",
+    title: "Liner & System Installs",
     description:
-      "Design, inspection, and remediation backed by code-aware engineering—safe stacks, compliant venting, and long-term performance.",
+      "UL-listed stainless steel lining systems and high-performance heating vents engineered for lifetime safety.",
   },
   {
-    title: "Data Systems",
+    title: "The CSR Advantage",
     description:
-      "Connected platforms that turn field activity into reliable records—synced workflows, transparent handoffs, and operational clarity.",
+      "Stop guessing about your chimney's health. Access 3D inspection reports and project milestones through our secure data portal.",
   },
   {
-    title: "Construction Management",
+    title: "Structural Masonry",
     description:
-      "End-to-end coordination from planning to closeout—schedules, quality control, and stakeholder communication in one disciplined program.",
+      "Master-level brickwork and historic restoration, ensuring your home's most critical infrastructure stands the test of time.",
   },
 ] as const;
 

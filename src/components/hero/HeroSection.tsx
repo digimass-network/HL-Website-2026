@@ -1,3 +1,4 @@
+"use client";
 import dynamic from "next/dynamic";
 import { HeroCopy } from "./HeroCopy";
 
@@ -12,7 +13,7 @@ const HeroCanvas = dynamic(
       >
         <div className="flex flex-col items-center gap-3">
           <div className="h-9 w-9 animate-spin rounded-full border-2 border-cyan-400/30 border-t-cyan-400" />
-          <span className="text-xs text-zinc-500">Loading visual</span>
+          <span className="text-xs text-zinc-500">Rendering Chimney Model...</span>
         </div>
       </div>
     ),
